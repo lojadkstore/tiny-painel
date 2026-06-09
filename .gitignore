@@ -1,0 +1,12 @@
+# Segredos — nunca commitar
+.env
+.env.*
+!.env.example
+*.token
+credentials*.json
+
+# Temporários
+node_modules/
+__pycache__/
+*.log
+.DS_Store
